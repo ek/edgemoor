@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<config>
+  
+  <intro delaytime='2'>
+    <frame url="photos/1.jpg">INNOVATIVE</frame>
+    <frame url="photos/4.jpg">FLEXIBLE</frame>
+    <frame url="photos/3.jpg">SEAMLESS</frame>
+    <frame url="photos/2.jpg">VALUE</frame>
+  </intro>
+  
+  <states>
+    
+    <state>
+      
+      <button>OUR PHILOSOPHY</button>
+      <image url="photos/5.jpg"></image>
+      <description>Outstanding development results from excellent planning and design aligned with sound financial and market analysis and followed through with seamless delivery of the end product. We act as the development manager, bringing an 'owner’s' perspective to every project.</description>
+      
+    </state>
+    
+    <state>
+      <button>OUR APPROACH</button>
+      <image url="photos/6.jpg"></image>
+      <description>Limit client exposure to project risk and optimize project functionality, aesthetics, costs, flexibility, and account-ability, resulting in facilities that exceed client goals and objectives.</description>
+    </state>
+    <state>
+      <button>OUR GOAL</button>
+      <image url="photos/7.jpg"></image>
+      <description>Understand the real estate needs of clients, offer a wide variety of real estate and construction services, increase overall value for clients, and achieve the highest level of customer satisfaction by delivering a product that satisfies the needs of the end-user and maximizes value for our client.</description>
+    </state>
+    
+    <state>
+      <button>OUR BENEFIT</button>
+      <image url="photos/8.jpg"></image>
+      <description>Reduce development costs and project delivery time to limit client risk by working with a well established leader, offering unparalleled quality, integrity and expertise.</description>
+    </state>
+    
+  </states>
+  
+</config>
